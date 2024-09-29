@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\AreaoftheRoom\AreaoftheRoom\bin\Debug\AreaoftheRoom.exe.config
+C:\Users\user\source\repos\AreaoftheRoom\AreaoftheRoom\bin\Debug\AreaoftheRoom.exe
+C:\Users\user\source\repos\AreaoftheRoom\AreaoftheRoom\bin\Debug\AreaoftheRoom.pdb
+C:\Users\user\source\repos\AreaoftheRoom\AreaoftheRoom\obj\Debug\AreaoftheRoom.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AreaoftheRoom\AreaoftheRoom\obj\Debug\AreaoftheRoom.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AreaoftheRoom\AreaoftheRoom\obj\Debug\AreaoftheRoom.exe
+C:\Users\user\source\repos\AreaoftheRoom\AreaoftheRoom\obj\Debug\AreaoftheRoom.pdb
