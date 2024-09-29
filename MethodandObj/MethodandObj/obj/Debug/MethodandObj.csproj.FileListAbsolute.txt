@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\MethodandObj\MethodandObj\bin\Debug\MethodandObj.exe.config
+C:\Users\user\source\repos\MethodandObj\MethodandObj\bin\Debug\MethodandObj.exe
+C:\Users\user\source\repos\MethodandObj\MethodandObj\bin\Debug\MethodandObj.pdb
+C:\Users\user\source\repos\MethodandObj\MethodandObj\obj\Debug\MethodandObj.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MethodandObj\MethodandObj\obj\Debug\MethodandObj.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MethodandObj\MethodandObj\obj\Debug\MethodandObj.exe
+C:\Users\user\source\repos\MethodandObj\MethodandObj\obj\Debug\MethodandObj.pdb
