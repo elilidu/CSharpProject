@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\AbstactClassandMethod\AbstactClassandMethod\bin\Debug\AbstactClassandMethod.exe.config
+C:\Users\user\source\repos\AbstactClassandMethod\AbstactClassandMethod\bin\Debug\AbstactClassandMethod.exe
+C:\Users\user\source\repos\AbstactClassandMethod\AbstactClassandMethod\bin\Debug\AbstactClassandMethod.pdb
+C:\Users\user\source\repos\AbstactClassandMethod\AbstactClassandMethod\obj\Debug\AbstactClassandMethod.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AbstactClassandMethod\AbstactClassandMethod\obj\Debug\AbstactClassandMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AbstactClassandMethod\AbstactClassandMethod\obj\Debug\AbstactClassandMethod.exe
+C:\Users\user\source\repos\AbstactClassandMethod\AbstactClassandMethod\obj\Debug\AbstactClassandMethod.pdb
