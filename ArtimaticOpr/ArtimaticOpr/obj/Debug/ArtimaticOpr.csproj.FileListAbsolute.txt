@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ArtimaticOpr\ArtimaticOpr\bin\Debug\ArtimaticOpr.exe.config
+C:\Users\user\source\repos\ArtimaticOpr\ArtimaticOpr\bin\Debug\ArtimaticOpr.exe
+C:\Users\user\source\repos\ArtimaticOpr\ArtimaticOpr\bin\Debug\ArtimaticOpr.pdb
+C:\Users\user\source\repos\ArtimaticOpr\ArtimaticOpr\obj\Debug\ArtimaticOpr.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ArtimaticOpr\ArtimaticOpr\obj\Debug\ArtimaticOpr.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ArtimaticOpr\ArtimaticOpr\obj\Debug\ArtimaticOpr.exe
+C:\Users\user\source\repos\ArtimaticOpr\ArtimaticOpr\obj\Debug\ArtimaticOpr.pdb
