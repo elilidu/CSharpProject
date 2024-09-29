@@ -14,6 +14,8 @@ namespace AbstactClassandMethod
             Employee employee = new Employee() {FirstName="Vinode",LastName="Zelalem" };
             // Call the SayName Method on employee object
             employee.SayName();
+            employee.Quit();
+            employee.Quit("Ploymorphism");
             Console.ReadLine();
         }
     }

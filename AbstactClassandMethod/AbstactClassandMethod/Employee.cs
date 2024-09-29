@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace AbstactClassandMethod
 {
     // create Employee class and inherited with superclass called person
-    public class Employee:Person
+    public class Employee:Person, IQuittable
     {
         public int ID { get; set; }
 
@@ -17,5 +17,18 @@ namespace AbstactClassandMethod
             Console.WriteLine("Name\t" + FirstName+","+LastName);
         }
 
+
+        //  Employee class Implements the IQuittable interface
+        public void Quit()
+        {
+            // The body of animalSound() is provided here
+            Console.WriteLine("This line is the Impliementation of Interface Demo");
+            
+        }
+
+       public void Quit(string myData)
+        {
+            Console.WriteLine("This line is the Impliementation of Interface and \t"+myData);
+        }
     }
 }
