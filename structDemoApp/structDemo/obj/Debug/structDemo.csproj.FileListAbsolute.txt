@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\structDemoApp\structDemo\bin\Debug\structDemo.exe.config
+C:\Users\user\source\repos\structDemoApp\structDemo\bin\Debug\structDemo.exe
+C:\Users\user\source\repos\structDemoApp\structDemo\bin\Debug\structDemo.pdb
+C:\Users\user\source\repos\structDemoApp\structDemo\obj\Debug\structDemo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\structDemoApp\structDemo\obj\Debug\structDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\structDemoApp\structDemo\obj\Debug\structDemo.exe
+C:\Users\user\source\repos\structDemoApp\structDemo\obj\Debug\structDemo.pdb
