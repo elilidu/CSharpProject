@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\IOdemoApp\IOdemo\bin\Debug\IOdemo.exe.config
+C:\Users\user\source\repos\IOdemoApp\IOdemo\bin\Debug\IOdemo.exe
+C:\Users\user\source\repos\IOdemoApp\IOdemo\bin\Debug\IOdemo.pdb
+C:\Users\user\source\repos\IOdemoApp\IOdemo\obj\Debug\IOdemo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\IOdemoApp\IOdemo\obj\Debug\IOdemo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\IOdemoApp\IOdemo\obj\Debug\IOdemo.exe
+C:\Users\user\source\repos\IOdemoApp\IOdemo\obj\Debug\IOdemo.pdb
