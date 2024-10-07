@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\TryandCatchApp\TryandCatch\obj\Debug\TryandCatch.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TryandCatchApp\TryandCatch\obj\Debug\TryandCatch.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TryandCatchApp\TryandCatch\bin\Debug\TryandCatch.exe.config
+C:\Users\user\source\repos\TryandCatchApp\TryandCatch\bin\Debug\TryandCatch.exe
+C:\Users\user\source\repos\TryandCatchApp\TryandCatch\bin\Debug\TryandCatch.pdb
+C:\Users\user\source\repos\TryandCatchApp\TryandCatch\obj\Debug\TryandCatch.exe
+C:\Users\user\source\repos\TryandCatchApp\TryandCatch\obj\Debug\TryandCatch.pdb
