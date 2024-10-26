@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\StudentDBEF\StudentDBEF\obj\Debug\StudentDBEF.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\StudentDBEF\StudentDBEF\obj\Debug\StudentDBEF.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StudentDBEF\StudentDBEF\bin\Debug\StudentDBEF.exe.config
+C:\Users\user\source\repos\StudentDBEF\StudentDBEF\bin\Debug\StudentDBEF.exe
+C:\Users\user\source\repos\StudentDBEF\StudentDBEF\bin\Debug\StudentDBEF.pdb
+C:\Users\user\source\repos\StudentDBEF\StudentDBEF\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\StudentDBEF\StudentDBEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\StudentDBEF\StudentDBEF\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\StudentDBEF\StudentDBEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\StudentDBEF\StudentDBEF\obj\Debug\StudentDBEF.csproj.CopyComplete
+C:\Users\user\source\repos\StudentDBEF\StudentDBEF\obj\Debug\StudentDBEF.exe
+C:\Users\user\source\repos\StudentDBEF\StudentDBEF\obj\Debug\StudentDBEF.pdb
